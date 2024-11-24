@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md.Shakib Kabiraz
 - 🌱 I’m currently learning flutter for app development
-- 💬 Ask me about Dart, Flutter,
+- 💬 Ask me about Dart, Flutter,Getx,
 - 📫 How to reach me shakib.app.dev@gmail.com
 
 
