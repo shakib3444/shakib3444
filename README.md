@@ -37,11 +37,3 @@ Flutter Developer from Bangladesh 🇧🇩
 ## 📫 Contact
 
 📧 shakib.app.dev@gmail.com
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=shakib3444&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakib3444&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=shakib3444&color=blue)
