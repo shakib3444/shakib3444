@@ -14,7 +14,6 @@ Flutter Developer from Bangladesh 🇧🇩
 - WebSocket
 - Agora
 - Google Maps
-- Git & GitHub
 
 ## 🌱 Currently Learning
 
@@ -22,17 +21,6 @@ Flutter Developer from Bangladesh 🇧🇩
 - Performance Optimization
 - CI/CD
 - Native Android Integration
-
-## 💼 Featured Skills
-
-✔ Responsive UI
-✔ API Integration
-✔ State Management (GetX)
-✔ Push Notifications
-✔ Authentication
-✔ Real-time Chat
-✔ Live Streaming
-✔ Video Calling
 
 ## 📫 Contact
 
