@@ -1,8 +1,6 @@
-# Hi 👋, I'm Md. Shakib Kabiraz
+# Hi, I'm Md. Shakib Kabiraz
 
-Flutter Developer from Bangladesh 🇧🇩
-
-💙 Passionate about building cross-platform mobile applications with Flutter.
+Passionate about building cross-platform mobile applications with Flutter.
 
 ## 🚀 Tech Stack
 
